@@ -22,4 +22,4 @@ With the queries on this repository, we can answer various questions such as:
 
 Feel free to explore our project and its database to gain insights into course assessments and learning outcomes.
 
-![ER Diagram](path-to-your-image-file.png)
+![ER Diagram](/Users/abdul/Downloads/Databaseprojects/ERD-1.png)
